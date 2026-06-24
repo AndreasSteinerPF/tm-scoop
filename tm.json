@@ -1,12 +1,12 @@
 {
-    "version": "0.7.0",
+    "version": "0.7.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/AndreasSteinerPF/team-memory/releases/download/v0.7.0/tm_0.7.0_windows_amd64.zip",
+            "url": "https://github.com/AndreasSteinerPF/team-memory/releases/download/v0.7.1/tm_0.7.1_windows_amd64.zip",
             "bin": [
                 "tm.exe"
             ],
-            "hash": "85ea32d214f3f1098439ed7f4329aa1b9a30cb031e05eec2f3d180f4a9b8bd1a"
+            "hash": "6e00fdca1089de7e29bb9a60d1bebc4c0256603d2d333fa5287ca7ed713453fb"
         }
     },
     "homepage": "https://github.com/AndreasSteinerPF/team-memory",
